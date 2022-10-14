@@ -42,14 +42,14 @@ export const Login = () => {
               <img
                     width='100%'
                     
-                    src="./assets/imglogin.JPEG" alt="Logo" />
+                    src="https://res.cloudinary.com/dh0anc9rb/image/upload/v1665778095/1_nkjfke.jpg" alt="Logo" />
               </div>
               <div className="col bg p-5 rounded-end">
                 <div className="text-end">
                 <img
                     width='15%'
                     
-                    src="./assets/logo2.JPEG" alt="Logo" />
+                    src="https://res.cloudinary.com/dh0anc9rb/image/upload/v1665778095/2_furfsk.jpg" alt="Logo" />
                 </div>
 
                 <h2 className="fw-bold text-center py-5">Bienvenido</h2>
